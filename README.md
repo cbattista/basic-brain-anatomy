@@ -34,14 +34,20 @@ Some of these words are kind of tricky to remember.  Here's some tricks that I u
 2.  Superior.  The best (so it's higher).
 3.  Inferior.  The worst (so it's lower).
 4.  Dorsal-Ventral.  Dorsal fin.  The dorsal fin is on top of the dolphin or whale, so dorsal means upper. 
-5.  Anterior-posterior.  Use alphabetical ordering - **A**nterior is in the front, **P**osterior is in the back.
+5.  Anterior-posterior.  Use alphabetical ordering - **A**nterior is in the front, **p**osterior is in the back.
 6.  Rostral-caudal.  Can't help ya there, sorry.
 
 Main structures
 ============
 
-You can divide the parts of the brain into two main subregions.  Cortical, and subcortial.  Cortical refers to _ cerebral cortex_, which is the outer later of the human brain (and some vertebrates like mammals).  If you've ever heard the term "grey matter" before, this is the part of the brain that we're talking about.  Subcortical means just what it sounds like - structures below the cortex.  
+You can divide the parts of the brain into two main subregions.  Cortical, and subcortial.  Cortical refers to _cerebral cortex_, which is the outer later of the human brain (and some vertebrates like mammals).  If you've ever heard the term "grey matter" before, this is the part of the brain that we're talking about.  Subcortical means just what it sounds like - structures below the cortex.  
 
-Let's begin by dividing up the cortex into some chunks, which we will call _lobes_.  The _frontal lobe_ is in the front.  It's pretty big, and pretty huge in humans relative to other animals and is thought to be one of the structures that makes us smart.  Behind it (or posterior, as we say to sound really smart) is the _motor cortex_ which helps control your movement.  Posterior to the is the _parietal lobe_, which is also pretty big in humans relative to other animals.  The parietal cortex is called an _association area_ because it's smack dab in the middle of a bunch of of structures, and it integrates signals from those areas to make complicated stuff like math and spatial skills possible (more on that in another tutorial).  All the way at the back, posterior and ventral to the parietal cortex, is the _occipital lobe_.  The occipital lobe is responsible for handling visual input and making sense of what your eyes see.  Have we missed anything?  Yes we have.  On the lateral sides, inferior to the parietal and motor cortex, we have the _temporal lobes_.  These help us with processing auditory input, and language too.
+Let's begin by dividing up the cortex into some chunks, which we will call _lobes_.  The _frontal lobe_ is in the front.  It's pretty big, and pretty huge in humans relative to other animals and is thought to be one of the structures that makes us smart.  Posterior to that is the _parietal lobe_, which is also pretty big in humans relative to other animals.  The parietal cortex is called an _association area_ because it's smack dab in the middle of a bunch of of structures, and it integrates signals from those areas to make complicated stuff like math and spatial skills possible (more on that in another tutorial).  All the way at the back, posterior and ventral to the parietal cortex, is the _occipital lobe_.  The occipital lobe is responsible for handling visual input and making sense of what your eyes see.  Have we missed anything?  Yes we have.  On the lateral sides, inferior to the parietal and motor cortex, we have the _temporal lobes_.  These help us with processing auditory input, and language too.
+
+Check out the diagrams below with the main cortical structures labelled (thanks wikipedia).
+
+![lobes of the brain](http://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png)
+
+
 
 
