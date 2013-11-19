@@ -35,7 +35,7 @@ Some of these words are kind of tricky to remember.  Here's some tricks that I u
 3.  Inferior.  The worst (so it's lower).
 4.  Dorsal-Ventral.  Dorsal fin.  The dorsal fin is on top of the dolphin or whale, so dorsal means upper. 
 5.  Anterior-posterior.  Use alphabetical ordering - **A**nterior is in the front, **p**osterior is in the back.
-6.  Rostral-caudal.  Can't help ya there, sorry.
+6.  Rostral-caudal.  If you're familiar with animal terms, you might know that "rostral" means towards the beak (or nose/head, in our case), and "caudal" means towards the tail.
 
 Main structures
 ============
