@@ -1,4 +1,4 @@
-Basic-Brain-Anatomy
+Basic (human) brain anatomy
 ============
 
 In this tutorial
